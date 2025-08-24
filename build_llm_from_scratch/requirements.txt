@@ -1,0 +1,8 @@
+notebook
+tiktoken # OpenAI tiktoken library which implements Byte pair encoding
+torch # PyTorch library
+numpy==1.26.4 # NumPy for numerical operations
+matplotlib==3.7.2 # For plotting and visualization
+tensorflow>=2.15.0 # OpenAI used TensorFlow to save GPT-2 weights
+tqdm>=4.66 # For progress bars
+pandas
